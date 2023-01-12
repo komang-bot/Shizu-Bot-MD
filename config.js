@@ -8,11 +8,11 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['923470027813', '👑 Ahmad Ali - Creador 👑', true],
+  ['6292140321647', '👑 Komang - Creador 👑', true],
   ['19294515952']
 ] 
 global.suittag = ['923470027813'] 
-global.prems = ['923470027813','19294515952'] 
+global.prems = [''] 
 
 global.packname = 'x_Ikratos_x'
 global.author = '⍟Ahmad » Ali⍟'
